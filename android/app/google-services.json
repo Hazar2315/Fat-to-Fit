@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646337358054",
+    "project_id": "fat-to-fit-71510",
+    "storage_bucket": "fat-to-fit-71510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646337358054:android:59b634885a62b2fb5b7327",
+        "android_client_info": {
+          "package_name": "com.example.okulproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646337358054-6f497657vi2btmtfhc210jb5hkghno3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okulproje",
+            "certificate_hash": "49a6315f0621af46ec31a40d710888cc3c1f8b85"
+          }
+        },
+        {
+          "client_id": "646337358054-ecr36jbvct59mf9h233ier415nnp2dqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2AiY86unLf7HwNd63qgPbHUFQl8wbN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646337358054-ecr36jbvct59mf9h233ier415nnp2dqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
